@@ -150,7 +150,8 @@ The GNDEC Induction Program 2025 was more than a series of events — it was a *
 ---
 
 📁 *Submitted by:*
-`kulneev singh
+`kulneev singh'
+
 `[Branch - IT]`
 
 

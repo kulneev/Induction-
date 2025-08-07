@@ -3,7 +3,7 @@
 
 **📍 College:** Guru Nanak Dev Engineering College, Ludhiana
 **🎓 Department:** Computer Science and Engineering (CSE) & Information Technology (IT)
-**🗓️ Duration:** 31st July – 2nd August 2025
+**🗓️ Duration:** 31st July – 4th August 2025
 
 ---
 
@@ -134,7 +134,21 @@ The **Buddy4Study** team shared:
 * Participated in discussions to promote peer learning and introspection.
 
 ---
+### 📅 Induction Program - Day 4
 
+#### 🧠 Expert Lecture on Universal Human Values
+An insightful session was conducted by **Dr. Priyadarshini**, guiding us toward a more conscious and value-based life. Her talk emphasized the significance of understanding human values in leading a balanced and meaningful life. 🌟
+
+#### 🏎️ Talk by Gautam Sir
+**Gautam Sir**, a senior from our college, shared his journey in **Motorsports**. His inspiring words about passion, discipline, and dedication left a lasting impact on us. 🔥
+
+#### 🚀 Caustic Club Showcase
+The **Causmic Club** introduced their vibrant activities and creative projects. Their presentation gave us an exciting glimpse into innovation, leadership, and teamwork. ✨
+
+#### 🤝 Peer-to-Peer & Interactive Sessions
+Simultaneously, **peer-to-peer learning sessions** and **interactive classes by seniors and faculty** were conducted. These sessions made learning more engaging and collaborative. 📘
+
+---
 ### 💭 Final Thoughts:
 
 > "Learning, laughter, and self-discovery — all rolled into one powerful day!"

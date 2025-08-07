@@ -3,7 +3,7 @@
 
 **📍 College:** Guru Nanak Dev Engineering College, Ludhiana
 **🎓 Department:** Computer Science and Engineering (CSE) & Information Technology (IT)
-**🗓️ Duration:** 31st July – 4th August 2025
+**🗓️ Duration:** 31st July – 7th August 2025
 
 ---
 
@@ -148,6 +148,25 @@ The **Causmic Club** introduced their vibrant activities and creative projects. 
 #### 🤝 Peer-to-Peer & Interactive Sessions
 Simultaneously, **peer-to-peer learning sessions** and **interactive classes by seniors and faculty** were conducted. These sessions made learning more engaging and collaborative. 📘
 
+---
+### 📅 Induction Program - Day 5
+
+#### 🧪 Expert Lecture by Mr. Jasvir Singh Sekhon
+We had an enriching lecture by **Mr. Jasvir Singh Sekhon**, *District Resource Person - STEM*, held in the **Auditorium**. His talk opened new perspectives on science, technology, engineering, and mathematics, inspiring students to think innovatively. 🧠✨
+
+#### 📖 Session by Dr. Lakhvir Singh Khana
+Following this, **Dr. Lakhvir Singh Khana**, *Incharge - CML*, delivered an engaging lecture in the **Auditorium**. The session focused on learning resources, library orientation, and how to utilize the Central Library (CML) effectively. 📚💡
+---
+### 📅 Induction Program - Day 7
+
+#### 🧭 Lecture by Dr. Amit Kamra
+The day began with an informative session by **Dr. Amit Kamra**, *Incharge - DMC*, in the **Auditorium**. The session highlighted the role of the Departmental Monitoring Committee (DMC) and how it supports students throughout their academic journey. 📝🎯
+
+#### 🙌 Lecture by Dr. Parminder Singh
+Next, **Dr. Parminder Singh**, *Dean - Student Welfare*, addressed the students in the **Auditorium**. He emphasized the importance of mental well-being, student support services, and creating a positive environment for all. 💬🧘‍♂️
+
+#### 🧾 Lecture by Dr. Randhir Singh
+To conclude the day, **Dr. Randhir Singh** delivered a detailed lecture on **"Conduct of Examination"** in the **Auditorium**. He guided students on exam protocols, fairness, and academic integrity. 🏛️📑
 ---
 ### 💭 Final Thoughts:
 
